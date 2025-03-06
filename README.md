@@ -7,10 +7,10 @@
 
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lina18032&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Lina18032&theme=dark&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anisbl&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anisbl&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lina18032&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anisbl&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 <!--
 **anisbl/anisbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
